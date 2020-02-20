@@ -1,8 +1,12 @@
 {
     "progress": [
-        {"id":"00004970", "value":50},
-        {"id":"00094573", "value":40},
-        {"id":"00048674", "value":60},
-        {"id":"00019473", "value":30}
+        {"id":"IPD-STUDENT0001", "value":50},
+        {"id":"IPD-STUDENT-0002", "value":40},
+        {"id":"IPD-STUDENT-0003", "value":60},
+        {"id":"IPD-STUDENT-0004", "value":30},
+        {"id":"1@example.com", "value":50},
+        {"id":"2@example.com", "value":40},
+        {"id":"IPD-STUDENT-0003@IPD.smarthabit", "value":60},
+        {"id":"IPD-STUDENT-0004@IPD.smarthabit", "value":30}
     ]
 }
